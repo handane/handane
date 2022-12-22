@@ -15,7 +15,7 @@ might want to take a look at
 <p>
    <code><a href="#"><img alt="HTML5" title="HTML5" src="./assets/html.svg" height="35"></a></code>
    <code><a href="#"><img alt="CSS3" title="CSS3" src="./assets/css.svg" height="35"></a></code>
-   <code><a href="#"><img alt="Javascript" title="Javascript" src="./assets/js.svg" height="35"></a></code>
+   
    <code><a href="#"><img alt="bootstrap" title="Bootstrap" src="./assets/bootstrap.png" height="35"></a></code>
    <code><a href="#"><img alt="PHP" title="PHP" src="./assets/php.png" height="35"></a></code>
    <code><a href="#"><img alt="MySQL" title="MySQL" src="./assets/mysql.png" height="35"></a></code>
@@ -26,6 +26,7 @@ might want to take a look at
 
 ### Languages/Frameworks Currently learning:
 <p>
+   <code><a href="#"><img alt="Javascript" title="Javascript" src="./assets/js.svg" height="35"></a></code>
    <code><a href="#"><img alt="node.js" title="node JS" src="./assets/nodejs.png" height="35"></a></code>
    <code><a href="#"><img alt="ReactJS" title="React JS" src="./assets/reactjs.png" height="35"></a></code>
    <!-- <code><a href="#"><img alt="node.js" title="node.js" src="./assets/nodejs.png" height="38"></a></code> -->
