@@ -3,7 +3,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 Welcome to my profile, really happy when someone looks at my github :muscle::blush:
 
 
-- :man_student: I'm still a student at [Mulawarman University](https://unmul.ac.id)
+- :man_student: I'm a bachelor of informatics from [Mulawarman University](https://unmul.ac.id)
 - :computer: I'm very interested in web programming :sunglasses:
 
 - :open_file_folder: I have some course [certificates or certifications](https://github.com/handane/CERTIFICATE) that
