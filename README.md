@@ -29,6 +29,7 @@ might want to take a look at
    <code><a href="#"><img alt="laravel" title="Laravel" src="./assets/laravel.png" height="35"></a></code>
 <!--    <code><a href="#"><img alt="ReactJS" title="React JS" src="./assets/reactjs.png" height="35"></a></code> -->
    <code><a href="#"><img alt="node.js" title="node.js" src="./assets/nodejs.png" height="38"></a></code>
+   <code><a href="#"><img alt="node.js" title="node.js" src="./assets/mongodb.png" height="38"></a></code>
 </p>  
 
 <br>
