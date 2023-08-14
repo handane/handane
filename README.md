@@ -50,7 +50,7 @@ might want to take a look at
 
 ### Find Me:
 <p align="">
-   <a href="https://www.linkedin.com/in/rayhan-zidane-achmad/">
+   <a href="https://www.linkedin.com/in/rayhanza/">
       <img src="https://img.shields.io/badge/linkedin-248ce0?&style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
    <a href="mailto:zidaneachmad0@gmail.com">
