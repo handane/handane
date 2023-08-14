@@ -15,7 +15,7 @@ might want to take a look at
 <p>
    <code><a href="#"><img alt="HTML5" title="HTML5" src="./assets/html.svg" height="35"></a></code>
    <code><a href="#"><img alt="CSS3" title="CSS3" src="./assets/css.svg" height="35"></a></code>
-   <code><a href="#"><img alt="CSS3" title="Javascript" src="./assets/javascript.png" height="35"></a></code>
+   <code><a href="#"><img alt="CSS3" title="Javascript" src="./assets/javascript2.jpg" height="35"></a></code>
    <code><a href="#"><img alt="bootstrap" title="Bootstrap" src="./assets/bootstrap.png" height="35"></a></code>
    <code><a href="#"><img alt="PHP" title="PHP" src="./assets/php.png" height="35"></a></code>
    <code><a href="#"><img alt="MySQL" title="MySQL" src="./assets/mysql.png" height="35"></a></code>
