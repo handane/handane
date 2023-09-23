@@ -5,7 +5,7 @@ Welcome to my profile, really happy when someone looks at my github :muscle::blu
 
 - :man_student: I'm a bachelor of informatics from [Mulawarman University](https://unmul.ac.id)
 - :computer: I'm now as a Backend Developer and very interested in web programming :sunglasses:
-- at my fulltime job I usually working with MEAN stack mostly javascript, but I also sometimes work freelance using PHP
+- :computer_mouse: I usually working with node.js and express.js stack mostly javascript, but I also sometimes work freelance using PHP
 
 - :open_file_folder: I have some course [certificates or certifications](https://github.com/handane/CERTIFICATE) that
 you
